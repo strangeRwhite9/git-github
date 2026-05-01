@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 This is line one
-=======
-1st line
->>>>>>> test
+
+
